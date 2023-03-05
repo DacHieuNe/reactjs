@@ -1,0 +1,6 @@
+#todo-list li {
+  cursor: pointer;
+}
+#todo-list .todo-list--active {
+  color: #999;
+}/*# sourceMappingURL=style.css.map */

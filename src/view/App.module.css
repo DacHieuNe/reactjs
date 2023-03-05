@@ -1,0 +1,8 @@
+/* CSS Module viết theo kiểu camelCase , hỗ trợ theo cách viết selector : class và id */
+#f-C {
+    font-size: 20px;
+}
+#cRed {
+    composes: f-C;
+    color: red;
+}
